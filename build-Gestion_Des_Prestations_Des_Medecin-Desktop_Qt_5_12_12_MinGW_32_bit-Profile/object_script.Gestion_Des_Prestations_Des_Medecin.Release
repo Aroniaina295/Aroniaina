@@ -1,0 +1,14 @@
+release/ajout_med.o
+release/login.o
+release/main.o
+release/acceuil.o
+release/modif_med.o
+release/recherchemed.o
+release/sup_med.o
+release/qrc_res.o
+release/moc_acceuil.o
+release/moc_ajout_med.o
+release/moc_login.o
+release/moc_modif_med.o
+release/moc_recherchemed.o
+release/moc_sup_med.o

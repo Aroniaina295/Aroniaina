@@ -1,0 +1,14 @@
+debug/ajout_med.o
+debug/login.o
+debug/main.o
+debug/acceuil.o
+debug/modif_med.o
+debug/recherchemed.o
+debug/sup_med.o
+debug/qrc_res.o
+debug/moc_acceuil.o
+debug/moc_ajout_med.o
+debug/moc_login.o
+debug/moc_modif_med.o
+debug/moc_recherchemed.o
+debug/moc_sup_med.o
